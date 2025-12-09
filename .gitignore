@@ -1,0 +1,9 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
+.env
+.vscode/
+__pycache__/
+*.pyc
