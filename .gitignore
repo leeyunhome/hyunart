@@ -7,3 +7,9 @@ node_modules/
 .vscode/
 __pycache__/
 *.pyc
+
+# Video files
+*.MP4
+
+# Build output
+dist/
